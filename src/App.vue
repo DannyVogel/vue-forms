@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="./assets/favicon.ico">
     <h1>{{ msg }}</h1>
     <SignUpForm />
   </div>
